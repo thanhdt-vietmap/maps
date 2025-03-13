@@ -28083,7 +28083,7 @@ aRB(){var s=$.aKa()
 if(s.a.h(0,32)==null)s.aCM(new A.Y3(),t.jf)
 return $.aYk()},
 agU:function agU(){this.a=null},
-vn(){var s=new A.aw_(u.p),r=A.b1m("http://0.0.0.0:16119/api/"),q=new A.aby($,new A.Sx(A.b([B.DW],t.OB)),$,new A.afG(51200),!1)
+vn(){var s=new A.aw_(u.p),r=A.b1m("https://map-api.mapdev.lat/api/"),q=new A.aby($,new A.Sx(A.b([B.DW],t.OB)),$,new A.afG(51200),!1)
 q.a0V$=r
 q.a0W$=new A.a9s(A.aH(t.lZ))
 s.a=q
